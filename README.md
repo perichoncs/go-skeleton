@@ -6,6 +6,7 @@ File structure
         - handlers
             - entity
                 - CRUD.go
+                - handler.go
     - main.go
     - errors.go
 - internal
